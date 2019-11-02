@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Вдруг как в сказке скрипнула дверь, скоро мне будет 27 
